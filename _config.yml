@@ -1,7 +1,7 @@
 # Site settings
 title: Evan Zhang's Blog
 SEOTitle: 张旭的博客 | Evan Zhang
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-universe.jpg
 email: zxzyyzx@gmail.com
 description: "Xu Zhang's Blog"
 keyword: " Evan Zhang, 张旭的博客 "
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-128216095-1'            # Format: UA-xxxxxx-xx
@@ -101,7 +101,8 @@ friends: [
    {
         title: "Apple",
         href: "https://apple.com"
-    },{
+    },{title: "Google",
+        href: "https://Google.com"
        
     }
 ]
