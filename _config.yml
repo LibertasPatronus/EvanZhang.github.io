@@ -1,5 +1,5 @@
 # Site settings
-title: ZX Blog
+title: BY Blog
 SEOTitle: 张旭的博客 | Evan Zhang
 header-img: img/post-bg-desk.jpg
 email: zxzyyzx@gmail.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/LibertasPatronus/libertaspatronus.github.io" # 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Thinking will not overcome fear but action will."
+sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,8 +19,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:      
-#zhihu_username:      
-#github_username:     
+zhihu_username:      
+github_username:     
 #facebook_username:   
  
 #twitter_username:    
@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com/）
- disqus_username: Nemo_Evan
+# Disqus（https://disqus.com/）
+# disqus_username: Nemo_Evan
 
 # Gitalk
 gitalk:
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id:  
+ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-128216095-1'            # Format: UA-xxxxxx-xx
@@ -101,6 +101,8 @@ friends: [
    {
         title: "Apple",
         href: "https://apple.com"
+    },{
+       
     }
 ]
 
